@@ -35,7 +35,7 @@
 
 ---
 
-## 🔧 Intalar api
+## 🔧 Instalar api
 
   
 1. Clonar repositiorio

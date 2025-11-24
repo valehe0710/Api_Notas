@@ -44,7 +44,7 @@
    - En la terminal del proyecto: **dart pub get**
 3. Ejecuta el servidor
    - **dart run**
-4. Api iniicara en: *http://localhost:8080*
+4. Api inicara en: *http://localhost:8080*
 
   
 ---
